@@ -12,3 +12,6 @@ Assista ao vídeo completo no [Google Drive](https://drive.google.com/file/d/171
 
 Neste episódio, Rodrigo explora como a inteligência artificial está transformando o mundo — do trabalho à arte, da saúde à educação.
 
+<p align="center">
+  <img src="./ChatGPT Image 29 de set. de 2025, 18_02_32.png" width="600" alt="Capa do episódio">
+</p>
