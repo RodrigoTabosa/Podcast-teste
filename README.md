@@ -4,8 +4,7 @@ Este repositório contém os materiais do podcast **TecnoMente**, criado com fer
 
 ## 📽️ Episódio 1 — IA: A Revolução Invisível
 
-Assista ao vídeo completo no [Google Drive](https://drive.google.com/file/d/171l3AegVdfqLqc2cavJnepHqbfYwyNSR/view?usp=drive_link)
-
+Assista ao episódio no [YouTube](https://youtu.be/6vE2ug9AGWM)
 ---
 
 ## Sobre o episódio
